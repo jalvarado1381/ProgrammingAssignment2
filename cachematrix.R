@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These function allow to create and cache a matrix and its inverse
+## 
 
 ## This function create the matrix to be cached
 
@@ -20,7 +20,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Calculate the inverse of a matrix of type makeCacheMatrix
 
 cacheSolve <- function(x, ...) {
 
