@@ -1,4 +1,4 @@
-## These function allow to create and cache a matrix and its inverse
+## These functions allow to create and cache a matrix and its inverse
 ## 
 
 ## This function create the matrix to be cached
